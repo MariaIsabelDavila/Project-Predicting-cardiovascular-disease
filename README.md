@@ -1,2 +1,4 @@
 # Project-Predicting-cardiovascular-disease
-Dataframe with different predictor variables that seek to predict whether that person suffers from cardiovascular disease or not
+# Autors: Doménica Ordóñez, José Villaruel and María Isabel Dávila
+### Introduction: An unbalanced dataset was given to students. This contained a series of predictor variables (18) that will later influence on the prediction of a heart disease (the response variable). However, the dataset in addition of being unbalanced, had null and wrong values in the predictor variables. All the information was provided by public and private health institutions. Our objective, as a team was to process all the information in order to have a clean dataset and make further correct predictions with the best machine learning algorithm
+### El archivo va a tener un dataframe de más de 300 mil registros, con varias variables predictoras y una variable de respuesta binaria. El archivo contará con la limpieza del dataframe, el balance de datos y la corrida de distintos modelos de predicción.
